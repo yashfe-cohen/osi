@@ -1,0 +1,1 @@
+Layer 2: Data Link - Defines the format of data on the network (MAC addresses).

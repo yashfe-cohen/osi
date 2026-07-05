@@ -1,0 +1,1 @@
+Layer 7: Application - Human-computer interaction layer, where applications can access the network services.

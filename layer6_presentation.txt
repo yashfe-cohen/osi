@@ -1,0 +1,1 @@
+Layer 6: Presentation - Ensures that data is in a usable format and is where data encryption occurs.

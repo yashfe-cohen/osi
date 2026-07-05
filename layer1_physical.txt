@@ -1,0 +1,1 @@
+Layer 1: Physical - Transmits raw bit stream over the physical medium.

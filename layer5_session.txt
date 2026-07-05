@@ -1,0 +1,1 @@
+Layer 5: Session - Maintains connections and is responsible for controlling ports and sessions.
